@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joshu\\Documents\\BannerPartiesGame\\BannerParties\\BannerParties\\BannerParties.csproj",
-      "projectName": "BannerParties",
-      "projectPath": "C:\\Users\\joshu\\Documents\\BannerPartiesGame\\BannerParties\\BannerParties\\BannerParties.csproj",
+      "projectUniqueName": "C:\\Users\\joshu\\Documents\\BannerParties\\BannerParties\\BannerParties\\BannerPartiesUI.csproj",
+      "projectName": "BannerPartiesUI",
+      "projectPath": "C:\\Users\\joshu\\Documents\\BannerParties\\BannerParties\\BannerParties\\BannerPartiesUI.csproj",
       "packagesPath": "C:\\Users\\joshu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joshu\\Documents\\BannerPartiesGame\\BannerParties\\BannerParties\\obj\\",
+      "outputPath": "C:\\Users\\joshu\\Documents\\BannerParties\\BannerParties\\BannerParties\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joshu\\AppData\\Roaming\\NuGet\\NuGet.Config",

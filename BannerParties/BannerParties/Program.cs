@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BannerParties
+namespace BannerPartiesUI
 {
     class Program
     {
