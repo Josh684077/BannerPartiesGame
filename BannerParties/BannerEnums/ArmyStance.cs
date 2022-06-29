@@ -2,7 +2,7 @@
 
 namespace BannerEnums
 {
-    public enum Stance
+    public enum ArmyStance
     {
         Neutral, Offensive, Defensive
     }

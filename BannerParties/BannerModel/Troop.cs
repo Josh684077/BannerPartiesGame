@@ -5,7 +5,7 @@ namespace BannerModel
     public class Troop
     {
         int Healthpoints;
-        bool Healthy;
+        bool Healthy { get { return (Healthpoints > 49); } }
 
     }
 }

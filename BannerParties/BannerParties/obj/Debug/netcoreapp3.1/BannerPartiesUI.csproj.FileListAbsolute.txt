@@ -12,3 +12,17 @@ C:\Users\joshu\Source\Repos\BannerPartiesGame\BannerParties\BannerParties\obj\De
 C:\Users\joshu\Source\Repos\BannerPartiesGame\BannerParties\BannerParties\obj\Debug\netcoreapp3.1\BannerPartiesUI.dll
 C:\Users\joshu\Source\Repos\BannerPartiesGame\BannerParties\BannerParties\obj\Debug\netcoreapp3.1\BannerPartiesUI.pdb
 C:\Users\joshu\Source\Repos\BannerPartiesGame\BannerParties\BannerParties\obj\Debug\netcoreapp3.1\BannerPartiesUI.genruntimeconfig.cache
+C:\Users\joshu\Documents\BannerParties\BannerParties\BannerParties\obj\Debug\netcoreapp3.1\BannerPartiesUI.csproj.AssemblyReference.cache
+C:\Users\joshu\Documents\BannerParties\BannerParties\BannerParties\obj\Debug\netcoreapp3.1\BannerPartiesUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\Documents\BannerParties\BannerParties\BannerParties\obj\Debug\netcoreapp3.1\BannerPartiesUI.AssemblyInfoInputs.cache
+C:\Users\joshu\Documents\BannerParties\BannerParties\BannerParties\obj\Debug\netcoreapp3.1\BannerPartiesUI.AssemblyInfo.cs
+C:\Users\joshu\Documents\BannerParties\BannerParties\BannerParties\obj\Debug\netcoreapp3.1\BannerPartiesUI.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Documents\BannerParties\BannerParties\BannerParties\obj\Debug\netcoreapp3.1\BannerPartiesUI.dll
+C:\Users\joshu\Documents\BannerParties\BannerParties\BannerParties\obj\Debug\netcoreapp3.1\BannerPartiesUI.pdb
+C:\Users\joshu\Documents\BannerParties\BannerParties\BannerParties\bin\Debug\netcoreapp3.1\BannerPartiesUI.exe
+C:\Users\joshu\Documents\BannerParties\BannerParties\BannerParties\bin\Debug\netcoreapp3.1\BannerPartiesUI.deps.json
+C:\Users\joshu\Documents\BannerParties\BannerParties\BannerParties\bin\Debug\netcoreapp3.1\BannerPartiesUI.runtimeconfig.json
+C:\Users\joshu\Documents\BannerParties\BannerParties\BannerParties\bin\Debug\netcoreapp3.1\BannerPartiesUI.runtimeconfig.dev.json
+C:\Users\joshu\Documents\BannerParties\BannerParties\BannerParties\bin\Debug\netcoreapp3.1\BannerPartiesUI.dll
+C:\Users\joshu\Documents\BannerParties\BannerParties\BannerParties\bin\Debug\netcoreapp3.1\BannerPartiesUI.pdb
+C:\Users\joshu\Documents\BannerParties\BannerParties\BannerParties\obj\Debug\netcoreapp3.1\BannerPartiesUI.genruntimeconfig.cache
